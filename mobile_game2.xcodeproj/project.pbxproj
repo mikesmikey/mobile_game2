@@ -7,15 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B937365220AB32E009BCACB /* ข้าวกระเพรา-plamplaza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B937364220AB32E009BCACB /* ข้าวกระเพรา-plamplaza.jpg */; };
 		3F91F7B922016D4D00FD9B82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F91F7B822016D4D00FD9B82 /* AppDelegate.swift */; };
 		3F91F7BB22016D4D00FD9B82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F91F7BA22016D4D00FD9B82 /* ViewController.swift */; };
 		3F91F7BE22016D4D00FD9B82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F91F7BC22016D4D00FD9B82 /* Main.storyboard */; };
 		3F91F7C022016D4E00FD9B82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F91F7BF22016D4E00FD9B82 /* Assets.xcassets */; };
 		3F91F7C322016D4E00FD9B82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F91F7C122016D4E00FD9B82 /* LaunchScreen.storyboard */; };
-		3F91F7CB22017C2300FD9B82 /* ข้าวกระเพรา-plamplaza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F91F7CA22017C2300FD9B82 /* ข้าวกระเพรา-plamplaza.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2B937364220AB32E009BCACB /* ข้าวกระเพรา-plamplaza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ข้าวกระเพรา-plamplaza.jpg"; sourceTree = "<group>"; };
 		3F91F7B522016D4D00FD9B82 /* mobile_game2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mobile_game2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F91F7B822016D4D00FD9B82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F91F7BA22016D4D00FD9B82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -23,7 +24,6 @@
 		3F91F7BF22016D4E00FD9B82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F91F7C222016D4E00FD9B82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F91F7C422016D4E00FD9B82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F91F7CA22017C2300FD9B82 /* ข้าวกระเพรา-plamplaza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ข้าวกระเพรา-plamplaza.jpg"; path = "resources/ข้าวกระเพรา-plamplaza.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 		3F91F7B722016D4D00FD9B82 /* mobile_game2 */ = {
 			isa = PBXGroup;
 			children = (
-				3F91F7CA22017C2300FD9B82 /* ข้าวกระเพรา-plamplaza.jpg */,
+				2B937364220AB32E009BCACB /* ข้าวกระเพรา-plamplaza.jpg */,
 				3F91F7B822016D4D00FD9B82 /* AppDelegate.swift */,
 				3F91F7BA22016D4D00FD9B82 /* ViewController.swift */,
 				3F91F7BC22016D4D00FD9B82 /* Main.storyboard */,
@@ -126,8 +126,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F91F7C322016D4E00FD9B82 /* LaunchScreen.storyboard in Resources */,
+				2B937365220AB32E009BCACB /* ข้าวกระเพรา-plamplaza.jpg in Resources */,
 				3F91F7C022016D4E00FD9B82 /* Assets.xcassets in Resources */,
-				3F91F7CB22017C2300FD9B82 /* ข้าวกระเพรา-plamplaza.jpg in Resources */,
 				3F91F7BE22016D4D00FD9B82 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
